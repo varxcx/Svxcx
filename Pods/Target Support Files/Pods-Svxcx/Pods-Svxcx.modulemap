@@ -1,0 +1,6 @@
+framework module Pods_Svxcx {
+  umbrella header "Pods-Svxcx-umbrella.h"
+
+  export *
+  module * { export * }
+}
