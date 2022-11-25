@@ -1,4 +1,4 @@
-<h3 align="center">SoftNet Test App</h3>
+<h3 align="center">SoftMate Test App</h3>
 
 <p align="left">
 </p>
